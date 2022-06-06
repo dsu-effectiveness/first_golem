@@ -21,9 +21,7 @@
 golem::fill_desc(
   pkg_name = "first_golem", # The Name of the package containing the App
   pkg_title = "FRIST_GOLEM", # The Title of the package containing the App
-  pkg_description = "This is my first golem application. I think it will be a
-                     good one, but you never know. I wonder where this text
-                     is going to end up. ", # The Description of the package containing the App
+  pkg_description = "This is my first golem application. I think it will be a good one, but you never know. I wonder where this text is going to end up. ", # The Description of the package containing the App
   author_first_name = "Matt", # Your First Name
   author_last_name = "Nickodemus", # Your Last Name
   author_email = "AUTHOR@MAIL.COM", # Your Email
